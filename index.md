@@ -22,3 +22,6 @@ p{
   font-size: 10px;
 }
 ```
+- [x] I am a champion
+- [x] I will keep trying
+- [ ] Push it on
